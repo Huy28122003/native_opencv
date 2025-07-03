@@ -1,8 +1,8 @@
 name: native_opencv
 description: A new Flutter FFI plugin project.
 version: 0.0.1
-homepage:
-
+homepage: https://github.com/Huy28122003/native_opencv
+repository: https://github.com/Huy28122003/native_opencv
 environment:
   sdk: '>=3.1.5 <4.0.0'
   flutter: '>=3.3.0'
