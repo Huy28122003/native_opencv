@@ -1,0 +1,9 @@
+#include "filters/canny_edge_detector.cpp";
+#include "filters/gausian_blur.cpp";
+#include "filters/sobel_edge_detector.cpp";
+#include "filters/canny_edge_detector_v2.cpp";
+#include "filters/sketch.cpp";
+#include "filters/rough.cpp";
+#include "filters/remove_bg.cpp";
+#include "filters/remove_white_bg.cpp";
+#include "opencv_version.cpp";

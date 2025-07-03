@@ -1,0 +1,42 @@
+PODS:
+  - Flutter (1.0.0)
+  - image_picker_ios (0.0.1):
+    - Flutter
+  - native_opencv (0.0.1):
+    - Flutter
+    - OpenCV (= 4.3.0)
+  - OpenCV (4.3.0)
+  - path_provider_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - image_picker_ios (from `.symlinks/plugins/image_picker_ios/ios`)
+  - native_opencv (from `.symlinks/plugins/native_opencv/ios`)
+  - path_provider_foundation (from `.symlinks/plugins/path_provider_foundation/darwin`)
+
+SPEC REPOS:
+  trunk:
+    - OpenCV
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  image_picker_ios:
+    :path: ".symlinks/plugins/image_picker_ios/ios"
+  native_opencv:
+    :path: ".symlinks/plugins/native_opencv/ios"
+  path_provider_foundation:
+    :path: ".symlinks/plugins/path_provider_foundation/darwin"
+
+SPEC CHECKSUMS:
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  image_picker_ios: afb77645f1e1060a27edb6793996ff9b42256909
+  native_opencv: c75cfd9d6c24cd1b17241837159d1f73300d6ff6
+  OpenCV: 681e0451c1e54c5930a8922277f817ed5d5ab459
+  path_provider_foundation: 2a68637f8a62df7f6e790a428d1bdf72cb4e2d59
+
+PODFILE CHECKSUM: 7be2f5f74864d463a8ad433546ed1de7e0f29aef
+
+COCOAPODS: 1.16.2
