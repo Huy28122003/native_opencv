@@ -1,6 +1,6 @@
 # native_opencv
 
-A new Flutter FFI plugin project.
+A plugin that provides image processing functions like sketch, background removal
 
 ## Getting Started
 
